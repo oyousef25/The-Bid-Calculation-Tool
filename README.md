@@ -1,1 +1,1 @@
-# The-Bid-Calculation-Tool-
+# The-Bid-Calculation-Tool
